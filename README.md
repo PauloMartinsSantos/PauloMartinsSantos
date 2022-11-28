@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Paulo Santos
 
 
-- 🔭 Atualmente trabalho com Testes de Software (QA)
-- 🌱 Estudando JavaScript, MySql, Cypress Framework, Robot....
+- 🔭 Atualmente trabalho como Engenheiro de Qualidade de Software na VIA
+- 🌱 Estudando Python,JavaScript, MySql, Cypress Framework, Robot.... finalizando curso de Pós Graduação em Sistemas Industriais Automatizados
 
 <div align="center">
   <a href="https://github.com/PauloMartinsSantos">
